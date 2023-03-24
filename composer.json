@@ -1,0 +1,19 @@
+{
+    "name": "matheus/poo_with_php",
+    "description": "POO and programming with PHP 8",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Matheus\\PooWithPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus",
+            "email": "matheusandrade009@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^6.2"
+    }
+}
