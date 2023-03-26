@@ -12,6 +12,8 @@ This work is belongs to my professional life
 - [x] Inheritance
 - [x] This and Self difference
 - [x] Abstract Class
+- [x] Union Types
 - [x] Type Hinting
 - [x] Final Class
 - [x] Polymorphism
+- [x] Enums
